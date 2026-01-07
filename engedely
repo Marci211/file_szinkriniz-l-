@@ -2,9 +2,9 @@
   "app_versions": [
     {
       "version": "1.0",
-      "force_update": false,
-      "update_url": "https://example.com/update/1.0",
-      "is_blocked": true
+      "force_update": true,
+      "update_url": "https://github.com/Marci211/file_szinkriniz-l-/raw/refs/heads/main/file_szinkroniz%C3%A1l%C3%A1sa.exe",
+      "is_blocked": false
     },
     {
       "version": "1.1",
